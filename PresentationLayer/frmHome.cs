@@ -26,7 +26,6 @@ namespace PresentationLayer
             lblversion.Text = "v.1.0.0";
 
             //verificar se existe um evento em andamento
-            int aux;
             PersonBLL personBLL = new PersonBLL();
             QueryResponse<Person> r1 = personBLL.GetAllList();
             if(r1.Data.Count != 0)
@@ -67,10 +66,20 @@ namespace PresentationLayer
                     }
                 }
             }
+            else
+            {
+                lblTwo.Visible = false;
+                lblThree.Visible = false;
+                lblFour.Visible = false;
+                btnInsertTrainingSpace.Visible = false;
+                btnInsertCoffeeSpace.Visible = false;
+                btnExecute.Visible = false;
+                btnNext1.Visible = false;
+                btnNext2.Visible = false;
+                btnNext3.Visible = false;
 
-
-               
-            
+                consultaToolStripMenuItem.Visible = false;
+            }
         }
 
         private void btnExit_Click(object sender, EventArgs e)
