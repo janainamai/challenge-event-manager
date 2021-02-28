@@ -10,7 +10,7 @@ namespace DataAcessLayer.References
     {
         public static string GetConnectionString()
         {
-            return @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Janaina\Usuario\Documents\testeteste.mdf;Integrated Security=True;Connect Timeout=30";
+            return @"Insira aqui o local do banco de dados.";
         }
     }
 }
