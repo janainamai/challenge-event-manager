@@ -1,5 +1,5 @@
 # EventManager
-Gerenciador de eventos.
+Gerenciador de eventos: este é o primeiro programa que eu fiz. Existe outro no GitHub, mas este eu segui o passo a passo na playlist que estudo no youtube.
 
 Seja bem vindo, segue abaixo as orientações sobre o funcionamento do programa:
 
@@ -66,3 +66,9 @@ Todos os registros serão excluídos e você poderá repetir o processo novament
 >>> CONHEÇA MAIS <<<
 Existe um arquivo na pasta do projeto chamado "Conheça o programa.pdf".
 Nele você encontra mais informações sobre diferenciais, camadas do programa e particularidades.
+
+Eu gostaria de ser sincera. Infelizmente hoje no dia 28/02, eu tomei consciência de um erro que existe no programa, que por falta de tempo, não consegui corrigí-lo. 
+Erro: no momento da distribuição de pessoas na segunda etapa (em situações de número ímpar), pode ocorrer de uma sala com capacidade x receber uma pessoa a mais do que ela suporta. Quando as pessoas são distribuidas em quantidades iguais, o erro não acontece.
+Irei corrigí-lo a partir do mês 04/2021.
+
+Agradeço por ler até aqui <3
