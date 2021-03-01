@@ -5,7 +5,7 @@ Seja bem vindo, segue abaixo as orientações sobre o funcionamento do programa:
 
 Requisitos para rodar o programa:
 IDE: Visual Studio 2019 (english)
-Banco de dados: My
+Banco de dados: SQL Server
 
 >>> PREPARANDO O BANCO DE DADOS <<<
 1. Clonar o repositório para a sua máquina.
