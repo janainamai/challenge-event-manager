@@ -1,5 +1,5 @@
 # EventManager
-Gerenciador de eventos: este é o primeiro programa que eu fiz. Existe outro no GitHub, mas este eu segui o passo a passo na playlist que estudo no youtube.
+Gerenciador de eventos: este é o primeiro programa que eu fiz. Existe outro no GitHub  foi um passo a passo na playlist que estudo no youtube.
 
 Seja bem vindo, segue abaixo as orientações sobre o funcionamento do programa:
 
