@@ -63,6 +63,6 @@ Para consultar as salas: clique na aba CONSULTA -> Salas
 Para criar um novo evento, clique na aba EVENTO -> Novo Evento.
 Todos os registros serão excluídos e você poderá repetir o processo novamente.
 
-***CONHEÇA MAIS**
+**CONHEÇA MAIS**
 Existe um arquivo na pasta do projeto chamado "Conheça o programa.pdf".
 Nele você encontra mais informações sobre diferenciais, camadas do programa e particularidades.
