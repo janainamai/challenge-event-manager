@@ -1,13 +1,13 @@
 # EventManager
-Gerenciador de eventos: este é o primeiro programa que eu fiz.
+Gerenciador de eventos: este é o primeiro programa que eu fiz e foi utilizado para aplicar em uma vaga de desenvolvedora.
 
 Seja bem vindo, segue abaixo as orientações sobre o funcionamento do programa:
 
-Requisitos para rodar o programa:
+**Requisitos para rodar o programa:**
 IDE: Visual Studio 2019 (english)
 Banco de dados: SQL Server
 
->>> PREPARANDO O BANCO DE DADOS <<<
+**PREPARANDO O BANCO DE DADOS**
 1. Clonar o repositório para a sua máquina.
 2. Abra a solution EventManager com o Visual Studio 2019.
 3. Primeiramente iremos criar um banco de dados acessando a aba Server Explorer.
@@ -43,7 +43,7 @@ Banco de dados: SQL Server
   
 4. Pronto, agora o programa está pronto para ser executado. Para executar clique em "Start" ou precione F5.
 
->>> UTILIZANDO O PROGRAMA/FUNCIONAMENTO <<<
+**UTILIZANDO O PROGRAMA/FUNCIONAMENTO**
   Abrirá a página de login, segue abaixo os dados para acesso:
   Usuário: admin
   Senha: admin
@@ -63,8 +63,6 @@ Para consultar as salas: clique na aba CONSULTA -> Salas
 Para criar um novo evento, clique na aba EVENTO -> Novo Evento.
 Todos os registros serão excluídos e você poderá repetir o processo novamente.
 
->>> CONHEÇA MAIS <<<
+***CONHEÇA MAIS**
 Existe um arquivo na pasta do projeto chamado "Conheça o programa.pdf".
 Nele você encontra mais informações sobre diferenciais, camadas do programa e particularidades.
-
-Agradeço por ler até aqui <3
