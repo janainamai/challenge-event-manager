@@ -1,5 +1,5 @@
 # EventManager
-Gerenciador de eventos: este é o primeiro programa que eu fiz e foi utilizado para aplicar em uma vaga de desenvolvedora.
+Gerenciador de eventos: este é o primeiro programa que eu fiz e foi utilizado para aplicar na minha primeira vaga como desenvolvedora de sistemas.
 
 Seja bem vindo, segue abaixo as orientações sobre o funcionamento do programa:
 
